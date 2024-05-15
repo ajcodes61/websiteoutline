@@ -1,0 +1,35 @@
+
+
+
+table, th, td{
+
+    border: 4px solid green;
+    border-collapse: collapse;
+    padding: 20px;
+} 
+
+th{
+background-color: aqua;
+padding: 5px;
+
+}
+tb
+{
+    bord
+}
+
+.upper-roman{
+list-style-type: upper-roman;
+}
+.upper-alpha{
+    list-style-type:upper-alpha;
+
+}
+
+.lower-roman{
+    list-style-type: lower-roman;
+}
+.lower-alpha{
+    list-style-type: lower-alpha;
+}
+.lower-alpha{list-style-type: lower-alpha;}
